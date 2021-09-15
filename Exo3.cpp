@@ -1,6 +1,6 @@
 /**
 * Programme qui permet de trouver le moment de la collision entre 2 trains.
-* \file   Source.cpp
+* \file   Exo3.cpp
 * \author Delisle et Malek
 * \date   21 septembre 2021
 * Créé le 9 septembre 2021

@@ -1,6 +1,6 @@
 /**
 * Programme qui permet de  trouver le nombre premier le plus proche suivant le nombre donne par un utilisateur.
-* \file   nombrePremier.cpp
+* \file   Exo1.cpp
 * \author Delisle et Malek
 * \date   21 septembre 2021
 * Créé le 11 septembre 2021

@@ -1,6 +1,6 @@
 /**
 * Programme qui organise en ordre croissant 10 nombres entres par un utilisateur.
-* \file   nombresCroissants.cpp
+* \file   Exo4.cpp
 * \author Delisle et Malek
 * \date   21 septembre 2021
 * Créé le 8 septembre 2021

@@ -1,6 +1,6 @@
 /**
 * Programme qui enregistre dans un tableau de struct une liste provenant d'un fichier texte et indique l'element de la liste qui est le plus cher.
-* \file   inventaireStruct.cpp
+* \file   Exo5.cpp
 * \author Delisle et Malek
 * \date   21 septembre 2021
 * Créé le 10 septembre 2021
