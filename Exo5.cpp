@@ -23,7 +23,8 @@ void articleLePlusCher(const Produits inventaire[], int nArticles)
 {
 	double prixMax = 0.0; // Prend le prix de l'aliment le plus cher. 
 	string articlePlusCher; // Prend le nom de l'aliment le plus cher. 
-	for (int i = 0; i < nArticles; i++) {
+	for (int i = 0; i < nArticles; i++) 
+	{
 		if (inventaire[i].prix > prixMax) // Si le prix de l'aliment dans le tableau est plus eleve que prixMax, alors prixMax prend la valeur de cet aliment.
 		{
 			articlePlusCher = inventaire[i].nom; 
@@ -62,3 +63,4 @@ int main()
 		cout << inventaire[i].nom << "\t" << inventaire[i].type << "\t" << inventaire[i].prix << "\t" << inventaire[i].quantite << endl; // Affiche le tableau "inventaire".
 	}
 	articleLePlusCher(inventaire, produitN); // Grace a cette fonction on trouve l'article le plus cher.
+}
